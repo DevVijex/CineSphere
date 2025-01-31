@@ -14,7 +14,7 @@
 
 body {
   font-family: var(--font-roboto);
-  /* background-color: #212426; */
+   /* background-color: #212426;  */
   background-color: rgb(141, 104, 112);
 }
 
@@ -93,7 +93,6 @@ h1 {
 .empty {
   width: 100%;
   margin-top: 3rem;
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -108,7 +107,6 @@ h1 {
 .container {
   width: 100%;
   margin-top: 3rem;
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -119,7 +117,6 @@ h1 {
   width: 310px;
   height: 460px;
   margin: 1.5rem;
-
   position: relative;
   border-radius: 12px;
   overflow: hidden;
